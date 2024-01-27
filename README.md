@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @Irobillion
-- 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on IA
-- 📫 How to reach me christ.bouka@polymtl.ca
+Hi, My name is Christ Bouka. I am a student in Computer Science at the Polytechnic School of Montréal.
 
-<!---
-Irobillion/Irobillion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have good knowledge of language like:
+
+C
+C++
+Java
+Python
+JavScript
+PHP
+R
+Assembly IA-32
+I have experience in:
+
+Linux System Administration
+FPGA using
+embedded system
+Flask python
+React
+Express
+Qt C++
+/D/"D modelization
+Data science Python
+MongoDB
+SQL
+
+I'm currently learning a bunch of things:
+
+OpenGL
+A bunch of programming languages
+Rust
+Docker
+MEAN stack
+Django
+Game development
+Unity
+Unreal Engine
+Microcontroller programming
+Machine learning
+Deep Learning
+Web development (back end)
