@@ -3,13 +3,13 @@ Hi, My name is Christ Bouka. I am a student in Computer Science at the Polytechn
 I have good knowledge of language like:
 
 * C
-C++
-Java
-Python
-javascript
-PHP
-R
-Assembly IA-32
+* C++
+* Java
+* Python
+* javascript
+* PHP
+* R
+* Assembly IA-32
 
 
 I have experience in:
