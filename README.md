@@ -1,4 +1,4 @@
-Hi, My name is Christ Bouka. I am a student in Computer Science at the Polytechnic School of Montréal.
+Hi, My name is Christ Bouka. I am a student in Computer Science Engineering at the Polytechnic School of Montréal.
 
 I have good knowledge of language like:
 
